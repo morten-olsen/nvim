@@ -14,11 +14,8 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.typst" },
-  { import = "astrocommunity.pack.astro" },
-  { import = "astrocommunity.pack.cs" },
 
-  { import = "astrocommunity.completion.copilot-lua" },
+  -- { import = "astrocommunity.completion.copilot-lua" },
 
   { import = "astrocommunity.indent.indent-rainbowline" },
 }
